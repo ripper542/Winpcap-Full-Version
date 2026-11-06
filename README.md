@@ -241,4 +241,4 @@ This repository serves as the official landing page for WinPcap. The software is
 **Get the most recent version of WinPcap today!**
 
 ---
-**Last updated:** 2026-11-05 20:32:06 UTC
+**Last updated:** 2026-11-06 01:27:03 UTC
